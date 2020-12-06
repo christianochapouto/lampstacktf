@@ -1,0 +1,2 @@
+# lampstacktf
+lampstack with terraform
